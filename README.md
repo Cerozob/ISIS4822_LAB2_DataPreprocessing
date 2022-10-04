@@ -71,10 +71,20 @@ Los archivos MGN_ANM_MPIOS y MGN_ANM_DPTOS contienen la división geográfica po
 Para la realización de este laboratorio, usted debe:
 
 1.	Identifique y caracterice las variables dentro de los dataset que son necesarios para su análisis. Caracterice en términos de Tamara (WHAT) las variables que ha de tratar en la construcción de su visualización de manera tal que las variables caracterizadas permitan abordar la tarea a plantear.
-
-
 2.	Exprese en términos de Tamara (WHY) la tarea principal y las tareas secundarias a abordar para cumplir el objetivo y necesidad del Ministerio de Educación.
 3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones y transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
+
+| Sistema           | TerriData_Dim4                                                    |
+|-------------------|-------------------------------------------------------------------|
+| What: Data        | Tabla                                                             |
+| What: Derivado    |                                                                   |
+| Why: Task         | Identificar, comparar; distribucion y similaridad                 |
+| How: Encode       | Alineado,  y de uso.                                              |
+| How: Facet        | Particion y sobreponer                                            |
+| Marca             | Puntos y una linea de conexión entre las marcas                   |
+| Canal: Ordenado   | Separados y ordenados por llave atributo en una region horizontal |
+| Canal: Categorico | Color hue                                                         |
+
 4.	Genere un wireframe y bocetos de interfaz, ubicación y proporción de las gráficas que compondrán su visualización o tablero.
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
