@@ -95,7 +95,7 @@ Para la realización de este laboratorio, usted debe:
 
 <div align ="center">
 
-| How/Marcas/Canales     | Lab2                                                              |
+| How/Marcas/Canales     | Elemento                                                              |
 |-------------------|-------------------------------------------------------------------|
 | Encode       | Alineado,  y de uso.                                              |
 | Facet        | Particion y sobreponer                                            |
