@@ -78,8 +78,24 @@ Para la realización de este laboratorio, usted debe:
 |----------|-------|
 | Data     | Tabla |
 | Derivado |       |
+
+| Nombre                | Tipo (Framework)                              | Descripción                                                                              |
+|-----------------------|-----------------------------------------------|------------------------------------------------------------------------------------------|
+| Código   Departamento | Categórico                                    | Código DIVIPOLA del   departamento                                                       |
+| Departamento          | Categórico                                    | Nombre del departamento                                                                  |
+| Código   Entidad      | Categórico                                    | Código del   departamento/municipio                                                      |
+| Entidad               | Categórico                                    | Nombre del   departamento/municipio                                                      |
+| Dimensión             | Categórico                                    | Dimensión de terridata   (Educación)                                                     |
+| Subcategoría          | Categórico                                    | Subdimensión de terridata   (Varias)                                                     |
+| Indicador             | Categórico                                    | Indicador de la subdimensión   (Varios, depende de la subdimensión)                      |
+| Dato   Numérico       | Cuantitativo - Varios   (diferentes unidades) | Valor del indicador (En caso   de ser un valor numérico)                                 |
+| Año                   | Cuantitativo - Secuencial                     | Año de la medición (2005 -   2020)                                                       |
+| Mes                   | Cuantitativo - Cíclico                        | Mes de la medición (11 y 12)                                                             |
+| Fuente                | Categórico                                    | Fuente de la medición (DANE,   ICFES, Mineducación)                                      |
+| Unidad   de Medida    | Categórico                                    | Unidad del indicador   (Porcentaje, Porcentaje*100, conteo de años, puntos examen ICFES) |
  
 </div>
+
  
 2.	Exprese en términos de Tamara (WHY) la tarea principal y las tareas secundarias a abordar para cumplir el objetivo y necesidad del Ministerio de Educación.
 
@@ -88,7 +104,7 @@ Para la realización de este laboratorio, usted debe:
 | Whay   | Elemento                                             |
 |-----------|---------------------------------------------------|
 | Task | Identificar, comparar; distribucion y similaridad |
- 
+  
 </div>
 
 3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
