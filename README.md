@@ -75,7 +75,7 @@ Para la realización de este laboratorio, usted debe:
 <div align ="center">
  
 | Sistema        | Lab2  |
-|:-:|:-:|
+|----------------|-------|
 | What: Data     | Tabla |
 | What: Derivado |       |
  
