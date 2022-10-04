@@ -3,6 +3,7 @@
 ## Laboratorio 2 - D3 Data Binding
 -------------------
 Camilo Rozo - 201820147
+
 Hernán Cuy - 202010199
 -------------------
 #### Contexto
