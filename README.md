@@ -71,14 +71,22 @@ Los archivos MGN_ANM_MPIOS y MGN_ANM_DPTOS contienen la división geográfica po
 Para la realización de este laboratorio, usted debe:
 
 1.	Identifique y caracterice las variables dentro de los dataset que son necesarios para su análisis. Caracterice en términos de Tamara (WHAT) las variables que ha de tratar en la construcción de su visualización de manera tal que las variables caracterizadas permitan abordar la tarea a plantear.
-2.	Exprese en términos de Tamara (WHY) la tarea principal y las tareas secundarias a abordar para cumplir el objetivo y necesidad del Ministerio de Educación.
-3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones y transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
 
-| Sistema           | TerriData_Dim4                                                    |
+| Sistema        | Lab2  |
+|----------------|-------|
+| What: Data     | Tabla |
+| What: Derivado |       |
+
+2.	Exprese en términos de Tamara (WHY) la tarea principal y las tareas secundarias a abordar para cumplir el objetivo y necesidad del Ministerio de Educación.
+
+| Sistema   | Lab2                                              |
+|-----------|---------------------------------------------------|
+| Why: Task | Identificar, comparar; distribucion y similaridad |
+
+3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
+
+| Sistema           | Lab2                                                              |
 |-------------------|-------------------------------------------------------------------|
-| What: Data        | Tabla                                                             |
-| What: Derivado    |                                                                   |
-| Why: Task         | Identificar, comparar; distribucion y similaridad                 |
 | How: Encode       | Alineado,  y de uso.                                              |
 | How: Facet        | Particion y sobreponer                                            |
 | Marca             | Puntos y una linea de conexión entre las marcas                   |
