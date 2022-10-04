@@ -74,10 +74,10 @@ Para la realización de este laboratorio, usted debe:
 
 <div align ="center">
  
-| Sistema        | Lab2  |
-|----------------|-------|
-| What: Data     | Tabla |
-| What: Derivado |       |
+| What     | Elemento |
+|----------|-------|
+| Data     | Tabla |
+| Derivado |       |
  
 </div>
  
@@ -85,9 +85,9 @@ Para la realización de este laboratorio, usted debe:
 
 <div align ="center">
 
-| Sistema   | Lab2                                              |
+| Whay   | Elemento                                             |
 |-----------|---------------------------------------------------|
-| Why: Task | Identificar, comparar; distribucion y similaridad |
+| Task | Identificar, comparar; distribucion y similaridad |
  
 </div>
 
@@ -95,10 +95,10 @@ Para la realización de este laboratorio, usted debe:
 
 <div align ="center">
 
-| Sistema           | Lab2                                                              |
+| How/Marcas/Canales     | Lab2                                                              |
 |-------------------|-------------------------------------------------------------------|
-| How: Encode       | Alineado,  y de uso.                                              |
-| How: Facet        | Particion y sobreponer                                            |
+| Encode       | Alineado,  y de uso.                                              |
+| Facet        | Particion y sobreponer                                            |
 | Marca             | Puntos y una linea de conexión entre las marcas                   |
 | Canal: Ordenado   | Separados y ordenados por llave atributo en una region horizontal |
 | Canal: Categorico | Color hue                                                         |
