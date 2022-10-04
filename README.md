@@ -106,6 +106,9 @@ Para la realización de este laboratorio, usted debe:
 </div>
 
 4.	Genere un wireframe y bocetos de interfaz, ubicación y proporción de las gráficas que compondrán su visualización o tablero.
+
+[![Mockup](https://github.com/Cerozob/ISIS4822_LAB2_DataPreprocessing/blob/main/data/sources/Mockup.png)]
+
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
 
