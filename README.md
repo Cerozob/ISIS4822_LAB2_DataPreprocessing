@@ -1,8 +1,10 @@
 # ISIS 4822 Visual Analytics
 ## 2022-2
 ## Laboratorio 2 - D3 Data Binding
-
-
+-------------------
+Camilo Rozo - 201820147
+Hernán Cuy - 202010199
+-------------------
 #### Contexto
 Terridata es la fuente oficial de la información territorial dispuesta por el Departamento
 Nacional de Planeación (DNP) que nace por recomendación de la OCDE y dispone
