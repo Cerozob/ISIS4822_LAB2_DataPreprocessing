@@ -72,28 +72,28 @@ Para la realización de este laboratorio, usted debe:
 
 1.	Identifique y caracterice las variables dentro de los dataset que son necesarios para su análisis. Caracterice en términos de Tamara (WHAT) las variables que ha de tratar en la construcción de su visualización de manera tal que las variables caracterizadas permitan abordar la tarea a plantear.
 
-<center>
-
+<div align ="center">
+ 
 | Sistema        | Lab2  |
-|----------------|-------|
+|:-:|:-:|
 | What: Data     | Tabla |
 | What: Derivado |       |
-
-</center>
+ 
+</div>
  
 2.	Exprese en términos de Tamara (WHY) la tarea principal y las tareas secundarias a abordar para cumplir el objetivo y necesidad del Ministerio de Educación.
 
-<center>
+<div align ="center">
 
 | Sistema   | Lab2                                              |
 |-----------|---------------------------------------------------|
 | Why: Task | Identificar, comparar; distribucion y similaridad |
-
-</center>
+ 
+</div>
 
 3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
 
-<center>
+<div align ="center">
 
 | Sistema           | Lab2                                                              |
 |-------------------|-------------------------------------------------------------------|
@@ -103,7 +103,7 @@ Para la realización de este laboratorio, usted debe:
 | Canal: Ordenado   | Separados y ordenados por llave atributo en una region horizontal |
 | Canal: Categorico | Color hue                                                         |
 
-</center>
+</div>
 
 4.	Genere un wireframe y bocetos de interfaz, ubicación y proporción de las gráficas que compondrán su visualización o tablero.
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
