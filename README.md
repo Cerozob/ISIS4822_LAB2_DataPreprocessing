@@ -132,7 +132,7 @@ Para la realización de este laboratorio, usted debe:
 
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
 
-Al seleccionar el filtro en la parte superior de la visualización, las diferentes marcas de tipo area que componen el mapa coroplético variarán su canal usando la saturación de color. De igual manera en la segunda visualización, el area seleccionada genera otro mapa coroplético que detalla subareas que la componen. 
+Al seleccionar el filtro en la parte superior de la visualización, las diferentes marcas de tipo area que componen el mapa coroplético variarán su canal usando la saturación de color.
 
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
 
