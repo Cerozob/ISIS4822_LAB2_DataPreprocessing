@@ -130,6 +130,9 @@ Para la realización de este laboratorio, usted debe:
 
 Puede preprocesar los datos en otras herramientas (Excel, pandas, MatLab, etc) antes de cargarlos al ambiente web desde el que los vaya a visualizar. En cualquier caso, sea explícito con las transformaciones y limpiezas realizadas.
 
+Para el preprocesamiento de los datos, se realizó a travez de python. Todo el paso a paso de este procesamiento se encuentra en el siguiente enlace 
+[Pre Procesamiento de dataset](https://github.com/Cerozob/ISIS4822_LAB2_DataPreprocessing/blob/main/dataProcessing.ipynb) 
+
 #### Referencia
 
 Las siguientes referencias le pueden ser útiles para la realización de este laboratorio:
