@@ -77,7 +77,7 @@ Para la realización de este laboratorio, usted debe:
 | What     | Elemento |
 |----------|-------|
 | Data     | Tabla |
-| Derivado |       |
+| Derivado | Tabla |
 
 | Nombre                | Tipo (Framework)                              | Descripción                                                                              |
 |-----------------------|-----------------------------------------------|------------------------------------------------------------------------------------------|
@@ -126,6 +126,9 @@ Para la realización de este laboratorio, usted debe:
 ![Mockup](https://github.com/Cerozob/ISIS4822_LAB2_DataPreprocessing/blob/main/data/sources/Mockup.png)
 
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
+
+
+
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
 
 Puede preprocesar los datos en otras herramientas (Excel, pandas, MatLab, etc) antes de cargarlos al ambiente web desde el que los vaya a visualizar. En cualquier caso, sea explícito con las transformaciones y limpiezas realizadas.
