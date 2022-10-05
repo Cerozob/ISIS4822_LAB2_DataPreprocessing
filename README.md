@@ -134,7 +134,7 @@ Para la realización de este laboratorio, usted debe:
 
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
 
-Enlace de visualización : ![Desarrollo en la calidad de la educación en Colombia] (https://observablehq.com/d/e9347b44f817ab68)
+Enlace de visualización : [Desarrollo en la calidad de la educación en Colombia](https://observablehq.com/d/e9347b44f817ab68)
 
 Puede preprocesar los datos en otras herramientas (Excel, pandas, MatLab, etc) antes de cargarlos al ambiente web desde el que los vaya a visualizar. En cualquier caso, sea explícito con las transformaciones y limpiezas realizadas.
 
