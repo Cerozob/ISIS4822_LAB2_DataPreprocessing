@@ -139,4 +139,4 @@ Las siguientes referencias le pueden ser útiles para la realización de este la
 - Departamento Nacional de Planeación de Colombia. Terridata. Disponible en: https://terridata.dnp.gov.co/
 - Glosario Ministerio de educación Nacional. https://www.mineducacion.gov.co/1621/article-82702.html
 - SISTEMA NACIONAL DE INDICADORES EDUCATIVOS PARA LOS NIVELES DE PREESCOLAR, BÁSICA Y MEDIA EN COLOMBIA. https://www.mineducacion.gov.co/1780/articles-363305_recurso_1.pdf
-
+- “ Todos a aprender” :  Programa para la Transformación de la Calidad Educativa. https://www.mineducacion.gov.co/1621/articles-299245_recurso_1.pdf
