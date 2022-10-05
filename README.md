@@ -107,6 +107,9 @@ Para la realización de este laboratorio, usted debe:
   
 </div>
 
+- Identificar la tendencia de la calidad de la educación en colombia.
+- Comparar coberturas de educación por departamento.
+
 3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
 
 <div align ="center">
