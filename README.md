@@ -103,12 +103,13 @@ Para la realización de este laboratorio, usted debe:
 
 | Whay   | Elemento                                             |
 |-----------|---------------------------------------------------|
-| Task | Identificar, comparar; distribucion y similaridad |
+| Task: Actions | Identificar, comparar, summarize |
+| Task: Target | Distribucion y tendencias |
   
 </div>
 
-- Identificar la tendencia de la calidad de la educación en colombia.
-- Comparar coberturas de educación por departamento.
+- Identificar la tendencias.
+- Comparar y resumir datos.
 
 3.	Diseñe el HOW de su visualización y gráficas especificando los modismos a utilizar, las marcas y los canales de codificación. Incluya las interacciones transiciones que le permitan al usuario cumplir las tareas que identificó en el punto anterior.
 
@@ -118,8 +119,9 @@ Para la realización de este laboratorio, usted debe:
 |-------------------|-------------------------------------------------------------------|
 | Encode       | Alineado,  y de uso.                                              |
 | Facet        | Particion y sobreponer                                            |
+| Reduce        | Embed                                           |
 | Marca             | Puntos y una linea de conexión entre las marcas                   |
-| Canal: Ordenado   | Separados y ordenados por llave atributo en una region horizontal |
+| Canal: Ordenado   | Separados y ordenados por llave atributo en una region horizontal y vertical |
 | Canal: Categorico | Color hue                                                         |
 
 </div>
@@ -130,7 +132,7 @@ Para la realización de este laboratorio, usted debe:
 
 5.	Diseñe, plantee y explique las transiciones y cambios de estado que tendrán sus marcas al aplicar los filtros o selecciones que considere pertinentes.
 
-
+Al seleccionar el filtro en la parte superior de la visualización, las diferentes marcas de tipo area que componen el mapa coroplético variarán su canal usando la saturación de color. De igual manera en la segunda visualización, el area seleccionada genera otro mapa coroplético que detalla subareas que la componen. 
 
 6.	Implemente las visualizaciones usando D3 en un ambiente nativo o en un observable utilizando los métodos enter, update & exit y/o el esquema join definiendo sobre estos estados los cambios que ha diseñado para las diferentes marcas que componen la realización de su laboratorio.
 
